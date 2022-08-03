@@ -1,0 +1,6 @@
+[submodule "3. Belajar Aplikasi CRUD Sederhana"]
+	path = 3. Belajar Aplikasi CRUD Sederhana
+	url = git@github.com:chapagain/crud-php-simple.git
+[submodule "2. Belajar Aplikasi CRUD Sederhana"]
+	path = 2. Belajar Aplikasi CRUD Sederhana
+	url = git@github.com:chapagain/crud-php-simple.git
